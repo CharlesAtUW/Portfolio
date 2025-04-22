@@ -1,4 +1,7 @@
-"Huffman Exercise" | January 2024 | C++
+# Huffman Exercise" 
+
+- January 2024
+- C++
 
 ---
 

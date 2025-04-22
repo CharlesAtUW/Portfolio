@@ -1,4 +1,7 @@
-"RecipeCart" | January-March 2023 | Java
+# RecipeCart"
+
+- January-March 2023
+- Java, MongoDB
 
 ---
 

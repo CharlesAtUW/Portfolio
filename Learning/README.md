@@ -1,4 +1,9 @@
-"Learning" | August-September 2023 and December 2023-January 2024 | Godot, C#
+# Learning
+
+- August-September 2023 and December 2023-January 2024
+- Godot, C#
+
+---
 
 The `Learning` repository is available at
 https://github.com/uuhhhh/Learning/tree/ab37ad17b0835962ec6536b577966aa06a7aa749
