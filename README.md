@@ -11,6 +11,34 @@ The `README.md` file in each of these folders also provides information and cont
 Here are brief descriptions of the projects in each of the folders:
 
 ---
+### [EverythingMart](https://github.com/CharlesAtUW/Portfolio/tree/main/EverythingMart)
+
+- August 2025 - Present (Ongoing)
+- Unity, C#, FishNet
+
+This thesis game project is a co-op horror/comedy game, playable online with up to four players. You work at an otherworldly supermarket, where you must fulfill online orders by collecting the corresponding grocery items. Thing is, these items are walking around the market, so you must put them in a processor first! Be sure to also avoid whatever monsters lurk within the market!
+
+---
+### [Udon Uncaged](https://github.com/CharlesAtUW/Portfolio/tree/main/UdonUncaged)
+- January - April 2025
+- Unity, C#
+
+[![Trailer](https://img.youtube.com/vi/hEAv1nY5gTM/0.jpg)](https://youtu.be/hEAv1nY5gTM)
+
+In this alt-control game, you are a hamster in a hamster ball, controlled by rolling around in a actual giant hamster ball! Your owner just left for a family vacation, but you want to join them! Traverse and escape your owner's room, while avoiding obstacles such as fans and RC cars.
+
+---
+### [Fading Expressions](https://github.com/CharlesAtUW/Portfolio/tree/main/FadingExpressions)
+- September 2024
+- Unity, C#
+
+![Water plants task](https://img.itch.zone/aW1hZ2UvMzAxNTAxNC8xODAzMTUwNy5wbmc=/original/rfuY%2B1.png)
+![Picture task](https://img.itch.zone/aW1hZ2UvMzAxNTAxNC8xODAzMTUyNS5wbmc=/original/Lf3vNv.png)
+
+This is a rapid prototype for a serious game, about the day-to-day struggles of those suffering from dementia. Do your daily housework by completing small tasks, and experience how dementia negatively affects those who have it.
+
+# Older Projects
+
 ### [Learning](https://github.com/uuhhhh/Learning)
 - August-September 2023 and December 2023-January 2024
 - Godot, C#
@@ -36,12 +64,12 @@ This project was done by me individually.
 - Java
 
 This software engineering class project is a website where users can upload
-and keep track of recipes, as well as keeping track of a shopping list of ingredients.
+and keep track of recipes, as well as keep track of a shopping list of ingredients.
 What's unique about this project is its capability to add the ingredients
 of a given recipe (and their specified amounts) to the shopping list
 (with the option of adding only the ingredients the user is missing).
 This project was a collaborative effort, where I did most of the code
-for the backend server, as well as contributing to the project's documentation
+for the backend server, as well as contributed to the project's documentation
 and requirements document.
 
 ---
