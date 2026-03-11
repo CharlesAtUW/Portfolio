@@ -1,12 +1,11 @@
 # Fading Expressions
 
-![Water plants task](https://img.itch.zone/aW1hZ2UvMzAxNTAxNC8xODAzMTUwNy5wbmc=/original/rfuY%2B1.png)
-![Picture task](https://img.itch.zone/aW1hZ2UvMzAxNTAxNC8xODAzMTUyNS5wbmc=/original/Lf3vNv.png)
-
 A rapid prototype for a serious game, about the daily struggles of those suffering from dementia.
 
 - September 2024
 - Unity, C#
+
+<img width="480" height="270" alt="Water plants task" src="https://img.itch.zone/aW1hZ2UvMzAxNTAxNC8xODAzMTUwNy5wbmc=/original/rfuY%2B1.png" /> <img width="480" height="270" alt="Picture task" src="https://img.itch.zone/aW1hZ2UvMzAxNTAxNC8xODAzMTUyNS5wbmc=/original/Lf3vNv.png" />
 
 ## Where to play
 

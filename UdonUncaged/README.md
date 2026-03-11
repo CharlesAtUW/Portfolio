@@ -1,11 +1,11 @@
 # Udon Uncaged
 
-[![Trailer](https://img.youtube.com/vi/hEAv1nY5gTM/0.jpg)](https://youtu.be/hEAv1nY5gTM)
-
 In this alt-control game, control Udon the hamster by rolling around in the giant hamster ball! Traverse and escape the room!
 
 - January - April 2025
 - Unity, C#
+
+[![Trailer](https://img.youtube.com/vi/hEAv1nY5gTM/0.jpg)](https://youtu.be/hEAv1nY5gTM) <img width="480" height="270" alt="Controller" src="https://github.com/user-attachments/assets/3481c208-7efe-4c95-a81a-22a7a6768d93" />
 
 ## Where to play
 
