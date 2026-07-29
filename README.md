@@ -4,11 +4,11 @@ Welcome to my portfolio!
 
 Information for each portfolio item is in their respective folders.
 
-The names of each project link to their respective repositories.
+The names of each project also link to these folders.
 
 The `README.md` file in each of these folders also provides information and context about the portfolio project.
 
-Here are brief descriptions of the projects in each of the folders:
+Here are brief descriptions of the projects:
 
 ---
 ### [EverythingMart](https://github.com/CharlesAtUW/Portfolio/tree/main/EverythingMart)
