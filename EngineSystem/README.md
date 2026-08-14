@@ -5,7 +5,7 @@ This class project implements significant parts of a game engine. It takes a dee
 - August - December 2025
 - C++
 
-(image)
+<img width="480" height="335" alt="Water plants task" src="https://raw.githubusercontent.com/CharlesAtUW/Portfolio/refs/heads/main/EngineSystem/EngineSystem_Cutscene.png" />
 
 ## Where to Play
 

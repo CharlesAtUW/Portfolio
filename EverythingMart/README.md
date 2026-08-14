@@ -5,7 +5,7 @@ Cooperate to complete orders in an otherworldly supermarket, where the grocery i
 - August 2025 - Present (ongoing, expected May 2026 release)
 - Unity, C#, FishNet
 
-<img width="480" height="275" alt="EverythingMart banner" src="https://github.com/user-attachments/assets/5f1c3ced-fdc0-4160-babf-246402a231d8" />
+<img width="480" height="275" alt="EverythingMart banner" src="https://raw.githubusercontent.com/CharlesAtUW/Portfolio/refs/heads/main/EverythingMart/EverythingMart_Banner.png" />
 
 ## Where to play
 

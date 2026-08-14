@@ -5,7 +5,7 @@ A rapid prototype for a serious game, about the daily struggles of those sufferi
 - September 2024
 - Unity, C#
 
-<img width="480" height="270" alt="Water plants task" src="https://img.itch.zone/aW1hZ2UvMzAxNTAxNC8xODAzMTUwNy5wbmc=/original/rfuY%2B1.png" /> <img width="480" height="270" alt="Picture task" src="https://img.itch.zone/aW1hZ2UvMzAxNTAxNC8xODAzMTUyNS5wbmc=/original/Lf3vNv.png" />
+<img width="480" height="270" alt="Water plants task" src="https://raw.githubusercontent.com/CharlesAtUW/Portfolio/refs/heads/main/FadingExpressions/FadingExpressions_WaterThePlants.png" /> <img width="480" height="270" alt="Picture task" src="https://raw.githubusercontent.com/CharlesAtUW/Portfolio/refs/heads/main/FadingExpressions/FadingExpressions_TakePicture.png" />
 
 ## Where to play
 

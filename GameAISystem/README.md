@@ -5,7 +5,7 @@ This class project implments various algorithms of game AI on multiple levels of
 - January - April 2026
 - C++, OpenFrameworks
 
-(image)
+<img width="480" height="359" alt="Water plants task" src="https://raw.githubusercontent.com/CharlesAtUW/Portfolio/refs/heads/main/GameAISystem/GameAISystem_GoalPlanning.png" />
 
 ## Where to Play
 
