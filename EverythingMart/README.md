@@ -2,14 +2,14 @@
 
 Cooperate to complete orders in an otherworldly supermarket, where the grocery items you need to collect are walking around! Play with up to four players.
 
-- August 2025 - Present (ongoing, expected May 2026 release)
+- August 2025 - Present (ongoing, expected August 2026 release)
 - Unity, C#, FishNet
 
 <img width="480" height="275" alt="EverythingMart banner" src="https://raw.githubusercontent.com/CharlesAtUW/Portfolio/refs/heads/main/EverythingMart/EverythingMart_Banner.png" />
 
 ## Where to play
 
-This project is still in progress. Look out for a Steam release!
+This project is still in progress. A demo is currently available on the [Steam](https://store.steampowered.com/app/4637430/Everything_Mart/) page. Look out for the Steam release!
 
 ## Contributions
 - Networked the gameplay features using the FishNet networking library. Connected players together using Unity Relay.
