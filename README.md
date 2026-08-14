@@ -38,6 +38,24 @@ This is a rapid prototype for a serious game, about the day-to-day struggles of 
 
 <img width="480" height="270" alt="Water plants task" src="https://img.itch.zone/aW1hZ2UvMzAxNTAxNC8xODAzMTUwNy5wbmc=/original/rfuY%2B1.png" /> <img width="480" height="270" alt="Picture task" src="https://img.itch.zone/aW1hZ2UvMzAxNTAxNC8xODAzMTUyNS5wbmc=/original/Lf3vNv.png" />
 
+---
+### [Game AI System](https://github.com/CharlesAtUW/Portfolio/tree/main/GameAISystem)
+- January - April 2026
+- C++, OpenFrameworks
+
+This class project implments various algorithms of game AI on multiple levels of abstraction. Lower-level algorithms include position/rotation matching and chasing. The project is architectured so that higher-level algorithms, such as behavior trees and goal-oriented action planning (GOAP), are built on top of the lower-level algorithms.
+
+(image)
+
+---
+### [Engine System](https://github.com/CharlesAtUW/Portfolio/tree/main/EngineSystem)
+- August - December 2025
+- C++
+
+This class project implements significant parts of a game engine. It takes a deep dive game engine architecture, 3D rendering, file formats, and platform dependent/independent code. Includes a camera system with several different modes of position and rotation tracking, inspired by Unity's Cinemachine. The final product is an interactive cutscene, that integrates classmates' sound and animation systems with my camera system.
+
+(image)
+
 # Older Projects
 
 ### [Learning](https://github.com/uuhhhh/Learning)
